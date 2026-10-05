@@ -1,0 +1,167 @@
+{
+  "timestamp": 1782518400,
+  "quarter": {
+    "num": 3,
+    "year": 2026,
+    "start": "2026-06-27",
+    "end": "2026-09-25"
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Vidiny lafo noho ny finoana",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson1.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_1.json",
+      "version": "1.0",
+      "timestamp": 1782518400,
+      "created_at": 1782518400,
+      "updated_at": 1782518400,
+      "start_date": "2026-06-27",
+      "end_date": "2026-07-03"
+    },
+    {
+      "id": 2,
+      "title": "Ianao sy ny Baiboly",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson2.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_2.json",
+      "version": "1.0",
+      "timestamp": 1783123200,
+      "created_at": 1783123200,
+      "updated_at": 1783123200,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-10"
+    },
+    {
+      "id": 3,
+      "title": "Fahazavan'izao tontolo izao",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson3.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_3.json",
+      "version": "1.0",
+      "timestamp": 1783728000,
+      "created_at": 1783728000,
+      "updated_at": 1783728000,
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-17"
+    },
+    {
+      "id": 4,
+      "title": "Mijoro ho an'ny fahamarinana",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson4.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_4.json",
+      "version": "1.0",
+      "timestamp": 1784332800,
+      "created_at": 1784332800,
+      "updated_at": 1784332800,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-24"
+    },
+    {
+      "id": 5,
+      "title": "Fanetren-tena lehibe",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson5.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_5.json",
+      "version": "1.0",
+      "timestamp": 1784937600,
+      "created_at": 1784937600,
+      "updated_at": 1784937600,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31"
+    },
+    {
+      "id": 6,
+      "title": "Tsy manao ny fanaon'ny olona",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson6.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_6.json",
+      "version": "1.0",
+      "timestamp": 1785542400,
+      "created_at": 1785542400,
+      "updated_at": 1785542400,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-07"
+    },
+    {
+      "id": 7,
+      "title": "Fanoloran-tena ao anaty toe-java-tsarotra",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson7.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_7.json",
+      "version": "1.0",
+      "timestamp": 1786147200,
+      "created_at": 1786147200,
+      "updated_at": 1786147200,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-14"
+    },
+    {
+      "id": 8,
+      "title": "Vavolombelona roa",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson8.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_8.json",
+      "version": "1.0",
+      "timestamp": 1786752000,
+      "created_at": 1786752000,
+      "updated_at": 1786752000,
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-21"
+    },
+    {
+      "id": 9,
+      "title": "Asandrato ny lohanareo",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson9.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_9.json",
+      "version": "1.0",
+      "timestamp": 1787356800,
+      "created_at": 1787356800,
+      "updated_at": 1787356800,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-28"
+    },
+    {
+      "id": 10,
+      "title": "Fanomezam-pahasoavana",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson10.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_10.json",
+      "version": "1.0",
+      "timestamp": 1787961600,
+      "created_at": 1787961600,
+      "updated_at": 1787961600,
+      "start_date": "2026-08-29",
+      "end_date": "2026-09-04"
+    },
+    {
+      "id": 11,
+      "title": "Fampitandremana farany",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson11.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_11.json",
+      "version": "1.0",
+      "timestamp": 1788566400,
+      "created_at": 1788566400,
+      "updated_at": 1788566400,
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-11"
+    },
+    {
+      "id": 12,
+      "title": "Fanadiovana",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson12.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_12.json",
+      "version": "1.0",
+      "timestamp": 1789171200,
+      "created_at": 1789171200,
+      "updated_at": 1789171200,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-18"
+    },
+    {
+      "id": 13,
+      "title": "Fefena ny fahamarinana",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/imagesQ3/lesson13.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/MG/2026/lessonsQ3/lesson_13.json",
+      "version": "1.0",
+      "timestamp": 1789776000,
+      "created_at": 1789776000,
+      "updated_at": 1789776000,
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-25"
+    }
+  ]
+}
