@@ -1,0 +1,155 @@
+{
+  "timestamp": 1798243200,
+  "quarter": {
+    "num": 1,
+    "year": 2027,
+    "start": "2026-12-26",
+    "end": "2027-03-19"
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": "THE WAY OF TWO WORLDS",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson1.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_1.json",
+      "version": "1.0",
+      "timestamp": 1798243200,
+      "created_at": 1798243200,
+      "updated_at": 1798243200,
+      "start_date": "2026-12-26",
+      "end_date": "2027-01-01"
+    },
+    {
+      "id": 2,
+      "title": "LAW MEETS LOVE",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson2.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_2.json",
+      "version": "1.0",
+      "timestamp": 1798848000,
+      "created_at": 1798848000,
+      "updated_at": 1798848000,
+      "start_date": "2027-01-02",
+      "end_date": "2027-01-08"
+    },
+    {
+      "id": 3,
+      "title": "OUT OF CONTROL",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson3.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_3.json",
+      "version": "1.0",
+      "timestamp": 1799452800,
+      "created_at": 1799452800,
+      "updated_at": 1799452800,
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-15"
+    },
+    {
+      "id": 4,
+      "title": "A VERY LONG WALK WITH GOD",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson4.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_4.json",
+      "version": "1.0",
+      "timestamp": 1800057600,
+      "created_at": 1800057600,
+      "updated_at": 1800057600,
+      "start_date": "2027-01-16",
+      "end_date": "2027-01-22"
+    },
+    {
+      "id": 5,
+      "title": "NOAH WAY!",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson5.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_5.json",
+      "version": "1.0",
+      "timestamp": 1800662400,
+      "created_at": 1800662400,
+      "updated_at": 1800662400,
+      "start_date": "2027-01-23",
+      "end_date": "2027-01-29"
+    },
+    {
+      "id": 6,
+      "title": "REACHING TOWARD HEAVEN",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson6.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_6.json",
+      "version": "1.0",
+      "timestamp": 1801267200,
+      "created_at": 1801267200,
+      "updated_at": 1801267200,
+      "start_date": "2027-01-30",
+      "end_date": "2027-02-05"
+    },
+    {
+      "id": 7,
+      "title": "LONG, STRANGE TRIP",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson7.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_7.json",
+      "version": "1.0",
+      "timestamp": 1801872000,
+      "created_at": 1801872000,
+      "updated_at": 1801872000,
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-12"
+    },
+    {
+      "id": 8,
+      "title": "GOD PROVIDES",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson8.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_8.json",
+      "version": "1.0",
+      "timestamp": 1802476800,
+      "created_at": 1802476800,
+      "updated_at": 1802476800,
+      "start_date": "2027-02-13",
+      "end_date": "2027-02-19"
+    },
+    {
+      "id": 9,
+      "title": "NO LAUGHING MATTER",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson9.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_9.json",
+      "version": "1.0",
+      "timestamp": 1803081600,
+      "created_at": 1803081600,
+      "updated_at": 1803081600,
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-26"
+    },
+    {
+      "id": 10,
+      "title": "WINSOME . . . AND THEN SOME",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson10.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_10.json",
+      "version": "1.0",
+      "timestamp": 1803686400,
+      "created_at": 1803686400,
+      "updated_at": 1803686400,
+      "start_date": "2027-02-27",
+      "end_date": "2027-03-05"
+    },
+    {
+      "id": 11,
+      "title": "IDENTITY THEFT",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson11.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_11.json",
+      "version": "1.0",
+      "timestamp": 1804291200,
+      "created_at": 1804291200,
+      "updated_at": 1804291200,
+      "start_date": "2027-03-06",
+      "end_date": "2027-03-12"
+    },
+    {
+      "id": 12,
+      "title": "STRUGGLE BY A STREAM",
+      "image": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/imagesQ1/lesson12.webp",
+      "content_url": "https://raw.githubusercontent.com/Zatovo-Miaradia-aminJesosy/ephraim-lesona-debug/main/EN/2027/lessonsQ1/lesson_12.json",
+      "version": "1.0",
+      "timestamp": 1804896000,
+      "created_at": 1804896000,
+      "updated_at": 1804896000,
+      "start_date": "2027-03-13",
+      "end_date": "2027-03-19"
+    }
+  ]
+}
